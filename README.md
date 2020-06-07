@@ -1,2 +1,7 @@
-# COVID_19-Detection
-Classifying whether a patient has Covid 19 or not.
+<h1 align="center">Covid 19 Detection using CT-scans</h1>
+<p >*This project is for research purpose and <b>not for Real life medical usage.
+</b></p>
+<p align="center">
+  <a href="#overview">Overview</a> • <a href="#Installation">Quickstart</a> •
+  <a href="#Streamlit">Streamlit</a>•<a href="#Results">Results</a>
+</p>
