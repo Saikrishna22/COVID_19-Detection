@@ -2,7 +2,7 @@
 <p >*This project is for research purpose and <b>not for Real life medical usage.
 </b></p>
 <p align="center">
-  <a href="#overview">Overview</a>•<a href="#Results"> Results</a>•<a href="#Requirements"> Requirements</a>•<a href="#Acknowledgements"> Acknowledgements</a>
+  <a href="#overview">Overview</a>•<a href="#Results"> Results</a>•<a href="#Requirements"> Requirements</a>•<a href="#Usage"> Usage</a>•<a href="#Acknowledgements"> Acknowledgements</a>
 </p>
 
 # Overview
@@ -24,6 +24,11 @@ The main requirements are listed below:
 * Python 3.7
 * Numpy
 * OpenCV
+
+# Usage
+- Install Streamlit.
+- Within the COVID_19-Detection directory run the following: streamlit run Covid_19.py. This should automatically open a browser window with the user interface.
+- Try using different images of CT scans from different corona patients. If there is an error, please raise an issue.
 # Segmentation
 <b>Still in Progress</b>
 # Acknowledgements
