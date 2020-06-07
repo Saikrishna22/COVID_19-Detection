@@ -10,3 +10,4 @@
 - <b>Data</b>: Here i have considered CT - scans for detecting Covid_19. Data source is from https://github.com/UCSD-AI4H/COVID-CT
 - <b>Modeling:</b> This data set has low number of Ct scans of patients, so the optimal way to model was using Data Augmentation and training with pretrained model.Transfer learning can be used to boost accuracy if our labeled images are less in number. I have tried transfer learning using the following pre- trained models - VGG16, ResNet50, Resnet101v2, Xception and Densenet169.
 - <b>Result using Streamlit</b>
+![](Result_covid_19.gif)
