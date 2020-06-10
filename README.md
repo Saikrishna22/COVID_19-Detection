@@ -15,6 +15,7 @@
 
 # Results
 I have built this app using Streamlit. Streamlit is the fastest way to build Machine learning and deep learning models.
+<br>
 ![](Result_covid_19.gif)
 
 # Requirements 
